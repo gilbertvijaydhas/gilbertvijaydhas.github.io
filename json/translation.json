@@ -1,0 +1,12 @@
+{
+  "Hello World": {
+    "en": "English",
+    "ch": "chinese",
+    "tr": "Turkish"
+  },
+  "Next Screen": {
+    "en": "english",
+    "ch": "ehinese",
+    "tr": "turkish"
+  }
+}
