@@ -2,13 +2,13 @@
   "Hello World!": {
     "hindi": "हैलो वर्ल्ड!",
     "telugu": "హలో వరల్డ్!",
-    "spanish": "Hola Mundo!"
+    "spanish": "Hola Mundo!",
 	"english": "Hola Mundo!"
   },
   "Welcome": {
     "hindi": "स्वागत",
     "telugu": "స్వాగతం",
-    "spanish": "Bienvenida"
+    "spanish": "Bienvenida",
 	"english": "Welcome"
   }
 }
